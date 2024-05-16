@@ -23,7 +23,7 @@ public class ContaTerminal {
 
         // Mensagens enviadas via terminal para o cliente inserir os dados solicitados.
         System.out.println("Por favor, digite o número da Agência!");
-        String agencia = scanner.nextLine();
+        String agencia = scanner.nextLine()
 
         System.out.println("Por favor, digite o número da Conta!");
         int numero = scanner.nextInt();
